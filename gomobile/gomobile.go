@@ -19,7 +19,7 @@ import (
 )
 
 // -----------------------------------------------------------------------------
-// Global variables (shared across files in this package)
+// Global variables (shared across files in this package) x
 // -----------------------------------------------------------------------------
 
 var (
